@@ -1,0 +1,14 @@
+C:\Users\Чижова\source\repos\JS_LearnApp\JS_LearnApp\bin\Debug\JS_LearnApp.exe.config
+C:\Users\Чижова\source\repos\JS_LearnApp\JS_LearnApp\bin\Debug\JS_LearnApp.exe
+C:\Users\Чижова\source\repos\JS_LearnApp\JS_LearnApp\bin\Debug\JS_LearnApp.pdb
+C:\Users\Чижова\source\repos\JS_LearnApp\JS_LearnApp\obj\Debug\JS_LearnApp.csprojAssemblyReference.cache
+C:\Users\Чижова\source\repos\JS_LearnApp\JS_LearnApp\obj\Debug\JS_LearnApp.MainForm.resources
+C:\Users\Чижова\source\repos\JS_LearnApp\JS_LearnApp\obj\Debug\JS_LearnApp.Properties.Resources.resources
+C:\Users\Чижова\source\repos\JS_LearnApp\JS_LearnApp\obj\Debug\JS_LearnApp.csproj.GenerateResource.cache
+C:\Users\Чижова\source\repos\JS_LearnApp\JS_LearnApp\obj\Debug\JS_LearnApp.csproj.CoreCompileInputs.cache
+C:\Users\Чижова\source\repos\JS_LearnApp\JS_LearnApp\obj\Debug\JS_LearnApp.exe
+C:\Users\Чижова\source\repos\JS_LearnApp\JS_LearnApp\obj\Debug\JS_LearnApp.pdb
+C:\Users\Чижова\source\repos\JS_LearnApp\JS_LearnApp\obj\Debug\JS_LearnApp.EducationForm.resources
+C:\Users\Чижова\source\repos\JS_LearnApp\JS_LearnApp\obj\Debug\JS_LearnApp.TestForm.resources
+C:\Users\Чижова\source\repos\JS_LearnApp\JS_LearnApp\obj\Debug\JS_LearnApp.ProgInfo.resources
+C:\Users\Чижова\source\repos\JS_LearnApp\JS_LearnApp\obj\Debug\JS_LearnApp.Cert.resources
